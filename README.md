@@ -16,7 +16,7 @@ Follow the steps below to set up and install MAVROS for ROS 2 Foxy.
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/mavros2_foxy_installation.git
+git clone https://github.com/xvrobotics/mavros2_ws.git
 cd mavros2_ws
 ```
 
